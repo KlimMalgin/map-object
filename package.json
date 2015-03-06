@@ -1,0 +1,17 @@
+{
+  "name": "map-object",
+  "description": "Object fields iterator",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KlimMalgin/map-object.git"
+  },
+  "keywords": [
+    "object",
+    "map",
+    "iterate"
+  ],
+  "author": "Klim Malgin",
+  "license": "MIT",
+  "main": "index.js",
+  "version": "0.0.1"
+}
